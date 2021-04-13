@@ -33,6 +33,5 @@ Abrir el proyecto con android studio
 npx cap open android
 ```
 
-
 ## Vista previa del proyecto
 ![screenshot](screenshot.png)
